@@ -1,11 +1,13 @@
 h1{
-    margin-left: 600px;
-  }
-  h2{
-    margin-left: 19px;
-  }
-  img{
-    margin-left: 510px;
-    width: 400px;
-  }
-  
+  margin-left: 600px;
+}
+h2{
+  margin-left: 19px;
+}
+img{
+  margin-left: 510px;
+  width: 400px;
+}
+body{
+  background-color: blue;
+}
